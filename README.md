@@ -1,8 +1,8 @@
 # DOS-command
 
-* Stop & Start MSSQL
-net stop MSSQL$SQL2014
-net start MSSQL$SQL2014
+* Stop & Start MSSQL<br/>
+net stop MSSQL$SQL2014<br/>
+net start MSSQL$SQL2014<br/>
 
-* Shutdown & Reboot
-shutdown /r /f /c "After Installing Software"
+* Shutdown & Reboot<br/>
+shutdown /r /f /c "Scheduled reboot"
