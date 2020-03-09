@@ -6,3 +6,6 @@ net start MSSQL$SQL2014<br/>
 
 * Shutdown & Reboot<br/>
 shutdown /r /f /c "Scheduled reboot"
+
+* Network Drive
+cmdkey
